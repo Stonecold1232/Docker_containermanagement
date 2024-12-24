@@ -73,5 +73,9 @@ while true; do
 			;;
 		*)
 			echo "Invalid choice, please try again."
+                        ;;
+	esac
+ done
+			
 			
 
